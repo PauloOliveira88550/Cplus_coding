@@ -1,0 +1,6 @@
+O aluno - Lineu Guerra - 91052 não consta na lista de alunos inscritos.
+O aluno - Roberta Malheiro - 91081 não consta na lista de alunos inscritos.
+Inscrições Válidas - 99
+Inscrição do aluno - 91001 Adelina Miguel falhou: o(s) turno(s) escolhido(s) ja esta(estao) cheio(s).
+Inscrição do aluno - 91067 Nicanor Carrasco falhou: o(s) turno(s) escolhido(s) ja esta(estao) cheio(s).
+Inscrição do aluno - 91080 Reinaldo Verguero falhou: o(s) turno(s) escolhido(s) ja esta(estao) cheio(s).
